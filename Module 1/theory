@@ -1,0 +1,57 @@
+Every program's execution is starts with main method
+
+Access Modifier:
+public
+private
+protected
+
+Data type
+int 
+float
+double
+
+Wrapper class
+Integer
+Float
+Double
+
+String.valueof(a)
+Integer.parseInt(a)
+Double.parseDouble(a);
+Float.parseFloat(a);
+
+Conditional statement:
+if-else if-else-nested if
+switch-case-break
+
+Looping statement:
+for,while,do while,foreach
+
+Syntax:
+1)
+for(initialization;condition;incre/decre)
+{
+	statement
+}
+
+2)
+initialization;
+
+while(condition)
+{
+	statement;
+	incre/decre;	
+}
+
+3)
+initialization;
+do
+{
+	statement;
+	incre/decre;
+}
+while(condition);
+
+
+
+
