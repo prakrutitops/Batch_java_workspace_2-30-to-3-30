@@ -1,0 +1,24 @@
+Inheritance:when one object acquire all the properties and behaviour of parent class
+
+Types of Inheritance
+
+1)Single ->2 class
+2)Multilevel ->more than 2 class
+3)Multiple
+4)Hierarchical
+5)Hybrid
+
+
+
+Bank- bank()-banking-parent
+Current-current()-current-child
+Save-save()-saving-child
+
+interface-Collection of abstrasct methods
+
+abstract method-which does 
+not have a body part
+
+
+
+
