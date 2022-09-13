@@ -1,0 +1,6 @@
+String:
+StringBuilder->immutable-can not change
+StringBuffer->mutable-can change
+
+int->data type
+Integer->wrapper class[Use:Methods ]
