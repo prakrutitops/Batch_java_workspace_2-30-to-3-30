@@ -1,0 +1,35 @@
+Conditional
+Loop
+Keywords-this,static,super,final
+Object
+class
+abstraction
+encapsulation
+inheritance
+polymorphism
+stringbuilder,stringbuffer
+wrapper class
+Exception handling
+package management
+File io
+Serlization/Deserialization
+
+
+FileWriter
+FileReader
+
+Thread:Process Handle
+
+
+1)Class -Thread
+2)interface -Runnable
+
+Thread Lifecycle
+
+init
+start
+run 
+stop
+destroy
+
+
